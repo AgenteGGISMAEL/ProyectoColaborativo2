@@ -1,2 +1,2 @@
 # ProyectoColaborativo2
-Este proyecto tiene como objetivo [describir el objetivo del proyecto]. 
+Este proyecto tiene como objetivo trabajo colarativo. 
